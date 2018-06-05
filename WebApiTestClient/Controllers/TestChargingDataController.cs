@@ -8,7 +8,7 @@ using System.Web.Http;
 namespace WebApiTestClient.Controllers
 {
     /// <summary>
-    /// 测试API 新添加
+    /// 测试API
     /// </summary>
     public class TestChargingDataController : ApiController
     {
